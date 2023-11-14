@@ -1,5 +1,5 @@
 
-package com.mycompany.higronoeconomy.JFrame;
+package view;
 
 import java.awt.Color;
 import java.awt.Component;
@@ -10,7 +10,6 @@ import java.awt.Graphics2D;
 import javax.swing.JPanel;
 import javax.swing.JTable;
 import javax.swing.SwingConstants;
-import static javax.swing.SwingConstants.CENTER;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.JTableHeader;
 

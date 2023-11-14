@@ -1,5 +1,5 @@
 
-package com.mycompany.higronoeconomy.JFrame;
+package view;
 
 import java.awt.Color;
 import java.awt.GradientPaint;
